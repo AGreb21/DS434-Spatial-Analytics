@@ -70,7 +70,7 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 1. PV home is worth on average 5% more than a non PV home which is ~$35,000
 
-2. PV yields a full return on investment assuming an average tenuren in the home
+2. PV yields a full return on investment assuming an average tenure in the home
 
 3. circuits in hawaii have reached legal capacity limits
 
