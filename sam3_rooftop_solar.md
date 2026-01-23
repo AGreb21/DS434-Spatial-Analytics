@@ -48,13 +48,13 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. Mean PV permit is ~ $30,000
 
-2. 
+2. 55,000 PV permits as of 2016
 
-3. 
+3. 350,000 total housing units
 
-4. 
+4. ~14% of housing units with PV
 
 5. 
 
@@ -68,11 +68,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. PV home is worth on average 5% more than a non PV home which is ~$35,000
 
-2. 
+2. PV yields a full return on investment assuming an average tenuren in the home
 
-3. 
+3. circuits in hawaii have reached legal capacity limits
 
 4. 
 
@@ -88,13 +88,13 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. Identified large renewable energy zones for future renewable energy projectds
 
-2. 
+2. In 2021 Hawaiin electric announced climate change plan to be net 0 by 2045
 
-3. 
+3. Freed from external dependency
 
-4. 
+4. retiring fossil fuels, and adding clean energy community based shared projectsinclusing solar
 
 5. 
 
@@ -108,11 +108,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. this map identifies the large REZ zones
 
-2. 
+2. large areas with solar potential are identified as potential for where we can add solar
 
-3. 
+3. REZ zones are areas that has suitable technical conditions for clean energy generation projects
 
 4. 
 
@@ -128,11 +128,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. HECO's projections depend on assumptions about solar growth not measurements
 
-2. 
+2. rooftop solar and batteries expect to maintain increases through 2045
 
-3. 
+3. geosam can replace these assumptions with real data
 
 4. 
 
@@ -172,7 +172,7 @@ Based on your takeaways above, develop a focused research plan that demonstrates
 
 **Your Research Plan:**
 
-1. 
+1. This study will
 
 2. 
 
