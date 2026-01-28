@@ -1,7 +1,7 @@
 # Research Design Workshop: Using geosam for Hawaii Renewable Energy Planning
 
 **Due Date:** [Thursday January 22nd 2:30 PM]  
-**Deliverable:** 10 sentence research plan. Fill this in via markdown and push to your github
+**Deliverable:** 10-sentence research plan. Fill this in via markdown and push to your GitHub
 
 ---
 
@@ -19,7 +19,7 @@ Tracking rooftop solar requires:
 - ❌ Manual surveys (expensive, slow, quickly outdated)
 
 **Now, with geosam + SAM3:**
-- ✅ Detect visible solar panel from satelite iagery
+- ✅ Detect visible solar panel from satellite imagery
 - ✅ Get exact locations and panel areas
 - ✅ Update as often as new satellite imagery is available
 - ✅ Find "dark solar" that's invisible to utilities
@@ -36,7 +36,7 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 - What data sources are currently used (and their limitations)
 - What questions remain unanswered
 - What problems need solving
-- How geosam could add new insights
+- How Geosam could add new insights
 
 ---
 
@@ -68,11 +68,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. PV home is worth on average 5% more than a non PV home which is ~$35,000
+1. PV home is worth, on average, 5% more than a non-PV home, which is ~$35,000
 
-2. PV yields a full return on investment assuming an average tenure in the home
+2. PV yields a full return on investment, assuming an average tenure in the home
 
-3. circuits in hawaii have reached legal capacity limits
+3. Circuits in Hawaii have reached legal capacity limits
 
 4. 
 
@@ -88,13 +88,13 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. Identified large renewable energy zones for future renewable energy projectds
+1. Identified large renewable energy zones for future renewable energy projects
 
-2. In 2021 Hawaiin electric announced climate change plan to be net 0 by 2045
+2. In 2021, Hawaiin electric announced a climate change plan to be net 0 by 2045
 
 3. Freed from external dependency
 
-4. retiring fossil fuels, and adding clean energy community based shared projectsinclusing solar
+4. Retiring fossil fuels, and adding clean energy community-based shared projectsinclusing solar
 
 5. 
 
@@ -108,11 +108,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. this map identifies the large REZ zones
+1. This map identifies the large REZ zones
 
-2. large areas with solar potential are identified as potential for where we can add solar
+2. Large areas with solar potential are identified as potential areas where we can add solar
 
-3. REZ zones are areas that has suitable technical conditions for clean energy generation projects
+3. REZ zones are areas that have suitable technical conditions for clean energy generation projects
 
 4. 
 
@@ -128,11 +128,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. HECO's projections depend on assumptions about solar growth not measurements
+1. HECO's projections depend on assumptions about solar growth, not measurements
 
-2. rooftop solar and batteries expect to maintain increases through 2045
+2. Rooftop solar and batteries are expected to maintain increases through 2045
 
-3. geosam can replace these assumptions with real data
+3. Geosam can replace these assumptions with real data
 
 4. 
 
@@ -142,7 +142,7 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 ## Part 2: Synthesis & Research Plan
 
-Based on your takeaways above, develop a focused research plan that demonstrates how geosam can provide novel insights for Hawaii's renewable energy planning.
+Based on your takeaways above, develop a focused research plan that demonstrates how Geosam can provide novel insights for Hawaii's renewable energy planning.
 
 ### Your 10 Sentence Research Plan
 
@@ -154,7 +154,7 @@ Based on your takeaways above, develop a focused research plan that demonstrates
 
 **Sentences 3-5: Data & Methods**
 - What geographic area will you study?
-- What data sources will you combine with geosam?
+- What data sources will you combine with Geosam?
 - How will you analyze the data?
 
 **Sentences 6-7: Expected Findings**
@@ -162,7 +162,7 @@ Based on your takeaways above, develop a focused research plan that demonstrates
 - What would the results mean?
 
 **Sentences 8-9: Validation & Limitations**
-- How will you verify geosam's accuracy?
+- How will you verify Geosam's accuracy?
 - What are the main limitations of your approach?
 
 **Sentence 10: Impact**
@@ -172,25 +172,25 @@ Based on your takeaways above, develop a focused research plan that demonstrates
 
 **Your Research Plan:**
 
-1. This study will
+1. This project asks how accurately SAM3 can map rooftop solar panel adoption across Oʻahu and how those physical detections compare to Hawaiian Electric’s (HECO) official records of solar capacity and interconnections.
 
-2. 
+2. This matters because Hawaii’s energy transition depends on reliable, spatially detailed data to plan grid upgrades, improve equity, and accelerate renewable adoption.
 
-3. 
+3. The study area will be the island of Oʻahu, focusing on residential and commercial rooftops where most distributed solar systems are installed.
 
-4. 
+4. We will combine SAM3-derived solar panel detections with HECO’s interconnection queue data, reported installed capacity, and renewable energy planning reports.
 
-5. 
+5. Panel footprints will be converted into estimated capacity and aggregated by geographic units to compare with HECO’s reported statistics and grid conditions.
 
-6. 
+6. We expect to find strong overall agreement between SAM3-based capacity estimates and HECO’s island-level totals, validating computer vision as a reliable measurement tool.
 
-7. 
+7. We also expect to identify neighborhoods where physical solar adoption differs from reported interconnection patterns, revealing grid bottlenecks or equity gaps.
 
-8. 
+8. Validation will be performed by comparing SAM3-based capacity estimates with HECO’s official capacity reports and known solar saturation levels on specific circuits.
 
-9. 
+9. Limitations include uncertainty in converting panel area to capacity, possible detection errors, and limited access to detailed feeder-level utility data.
 
-10. 
+10. These findings will support planners, researchers, and policymakers by showing how computer vision can complement utility data for grid planning, equity analysis, and renewable energy policy evaluation on Oʻahu.
 
 ---
 
